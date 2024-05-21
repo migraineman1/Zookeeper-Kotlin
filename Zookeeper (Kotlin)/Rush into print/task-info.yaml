@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/Zookeeper.kt
+    visible: true
+    learner_created: false
+  - name: test/ZookeeperTest.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14133#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Jan 2024 18:37:21 UTC"
+record: 1
